@@ -8,3 +8,14 @@
 - 📫 How to reach me: https://www.linkedin.com/in/fernanda-kyle/
 - ⚡ Fun fact: I'm growing heritage tomatoes, clibing courgettes and 3 different types of beans from seed for the first time (summer - 2024)!
 
+<details>
+<summary>My top languages</summary>
+  
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| R         |
+|     3| SQL       |
+
+</details>
+
